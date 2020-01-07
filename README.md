@@ -1,1 +1,1 @@
-# deals-near-you
+# React-deals-near-you  using Google Maps Api
